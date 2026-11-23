@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-           
+            Book book = new Book();
+            //Console.WriteLine(book.password); //error
         }
     }
 }
