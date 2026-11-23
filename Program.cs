@@ -39,6 +39,18 @@
             //Genre g = (Genre)Enum.Parse(typeof(Genre), genreText);
             //Console.WriteLine(g); 
             #endregion
+            #region Q9
+            //string genreText = "Mystery";
+
+            //if (Enum.TryParse(genreText, out Genre result))
+            //{
+            //    Console.WriteLine(result);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Unknown genre");
+            //} 
+            #endregion
         }
     }
 }
