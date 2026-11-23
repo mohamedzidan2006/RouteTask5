@@ -6,6 +6,7 @@
         {
             Book book = new Book();
             //Console.WriteLine(book.password); //error
+            //Console.WriteLine(book.copiesInStock);
         }
     }
 }
